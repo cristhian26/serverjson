@@ -7,14 +7,6 @@
       "longit": "201",
       "latit": "202",
       "image": "image 1"
-    }, 
-    {
-      "signalement" : "Registro 2", 
-      "date" : "2019-03-05", 
-      "commentaires": "Este es el registro 2",
-      "longit": "203",
-      "latit": "204",
-      "image": "image 2"
     }
   ],
   "profile": {
