@@ -15,22 +15,6 @@
       "longit": "203",
       "latit": "204",
       "image": "image 2"
-    }, 
-    {
-      "signalement" : "Registro 3", 
-      "date" : "2018-03-0", 
-      "commentaires": "Este es el registro 3",
-      "longit": "205",
-      "latit": "206",
-      "image": "image 3"
-    },
-    {
-      "signalement" : "Registro 4", 
-      "date" : "2018-03-07", 
-      "commentaires": "Este es el registro 4",
-      "longit": "207",
-      "latit": "208",
-      "image": "image 4"
     }
   ],
   "profile": {
