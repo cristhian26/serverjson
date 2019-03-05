@@ -1,12 +1,7 @@
 {
   "posts": [
     { 
-      "signalement" : "Registro 1", 
-      "date" : "2019-03-04", 
-      "commentaires": "Este es el registro 1",
-      "longit": "201",
-      "latit": "202",
-      "image": "image 1"
+      
     }
   ],
   "profile": {
